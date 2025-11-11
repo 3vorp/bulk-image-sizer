@@ -1,0 +1,11 @@
+{
+	"name": "texture-sizer-thingy",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node ."
+	},
+	"dependencies": {
+		"image-size": "^2.0.2"
+	}
+}
