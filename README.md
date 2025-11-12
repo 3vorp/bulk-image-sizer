@@ -1,12 +1,14 @@
 # Bulk Image Sizer
 
-it sizes your textures in bulk
+it tells you the size of your images in bulk
 
 this took me 21 minutes of my life I'm not getting back
 
 ## Requirements
 
 you need node + pnpm for this (who could have guessed)
+
+this would have been a github gist normally but it has some extra stuff that needs setting up
 
 ## Usage
 
